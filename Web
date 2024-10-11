@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+	
+	</body>
+</html><!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+	
+	</body>
+</html><!DOCTYPE html>
+<html lang="vi">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Test Trang Web</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #fff7e6;
+			text-align: center;
+			padding: 50px;
+		}
+		h1 {
+			color: #ff6600;
+		}
+		p {
+			font-size: 20px;
+			color: #666;
+		}
+		.button {
+			background-color: #007bff;
+			color: white;
+			padding: 15px 25px;
+			border: none;
+			cursor: pointer;
+			text-decoration: none;
+			border-radius: 8px;
+			font-size: 18px;
+			margin-top: 30px;
+		}
+		.button:hover {
+			background-color: #0056b3;
+		}
+	</style>
+</head>
+<body>
+	<h1>test bio</h1>
+	<p>Bạn có thể nhấn nút dưới đây để hiển thị thông báo!</p>
+	<button class="button" onclick="showMessage()">Nhấn vào đây!</button>
+
+	<script>
+		function showMessage() {
+			alert("Xin chào! Nhấn Nút ở Dưới Cùng cái ở giữa nhấn không được đâu!");
+		}
+	</script>
+</body>
+</html><!DOCTYPE html>
+<html lang="vi">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Trang Web Đơn Giản</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f0f8ff;
+			text-align: center;
+			padding: 50px;
+		}
+		h1 {
+			color: #333;
+		}
+		p {
+			font-size: 18px;
+			color: #555;
+		}
+		.button {
+			background-color: #4CAF50;
+			color: white;
+			padding: 10px 20px;
+			border: none;
+			cursor: pointer;
+			text-decoration: none;
+			border-radius: 5px;
+			margin-top: 20px;
+		}
+		.button:hover {
+			background-color: #45a049;
+		}
+	</style>
+</head>
+<body>
+	<h1>Chào mừng đến với trang web !</h1>
+	<p>Hoa Hiep Ngo.</p>
+	<a href="#" class="button">Nhấn vào đây!</a>
+</body>
+</html><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQM2nhsWUOVZPf8llPbKPWJwtVKCwZFpTsFHf24yJATA&s" alt="Mô tả hình ảnh" width="300"><a href="https://www.google.com" target="_blank">https://vt.tiktok.com/ZS23SLeLJ/</a><form>
+	<input type="text" placeholder="Nhập tên của bạn">
+	<input type="email" placeholder="Nhập email của bạn">
+	<button type="submit">Đăng ký</button>
+</form>
+<p>vậy cũng tin mà nhập form đăng ký.</p><//p>
